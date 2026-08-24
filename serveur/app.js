@@ -34,7 +34,7 @@ app.get('/api/films/:id', (req, res) => {
     }
     const film = films.find(film => film.id === id);
     if (!film) {
-        return res.status(404).json({ erreur: 'Film non trouvé' });
+        return res.status(404).json([]);
     }
     res.status(200).json(film);
 });

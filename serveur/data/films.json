@@ -1,0 +1,8 @@
+[
+  {"id": 1, "titre": "Le Déclin de l'empire américain", "annee": 1986, "realisateur": "Denys Arcand"},
+  {"id": 2, "titre": "Un 32 août sur terre", "annee": 1998, "realisateur": "Denis Villeneuve"},
+  {"id": 3, "titre": "Maelström", "annee": 2000, "realisateur": "Denis Villeneuve"},
+  {"id": 4, "titre": "La Grande Séduction", "annee": 2003, "realisateur": "Jean-François Pouliot"},
+  {"id": 5, "titre": "Incendies", "annee": 2010, "realisateur": "Denis Villeneuve"},
+  {"id": 6, "titre": "Monsieur Lazhar", "annee": 2011, "realisateur": "Philippe Falardeau"}
+]
